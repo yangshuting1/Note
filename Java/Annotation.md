@@ -7,9 +7,10 @@
 
 ### 2. java中常见的注解
 #### 标准注解（JDK自带注解）
- @Deprecated 意思是“废弃的，过时的”
- @Override 意思是“重写、覆盖”
- @SuppressWarnings 意思是“压缩,警告”
+
+@Deprecated 意思是“废弃的，过时的”
+@Override 意思是“重写、覆盖”
+@SuppressWarnings 意思是“压缩,警告”
 
 
 注解标识 | 作用|
@@ -20,6 +21,7 @@
 
 
 [@override注解演示](http://note.youdao.com/noteshare?id=c8da0880776152f9407778359a08e0a3)（具体代码见test1/Person.java)
+
 [@Deprecated  && @SuppressWarnings注解演示](http://note.youdao.com/noteshare?id=609fd2bede99847a8d95bba813b0614e)(具体代码见test1/Test.java)
 
 #### 常见第三方注解
