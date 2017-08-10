@@ -25,7 +25,7 @@
 #### 常见第三方注解
 
 Spring的注解 | 
---------- |  ------------- 
+--------- |  
 @Autowired | 
 @Service |
 @Repository |
@@ -33,7 +33,7 @@ Spring的注解 |
 
 
 Mabits的注解 | 
---------- |  ------------- 
+--------- |  
 @InsertProvider | 
 @UpdateProvider|
 @Options|
@@ -80,8 +80,8 @@ public @interface Description {
 元注解：专职负责其他的注解
 **@Target作用：用于描述注解的使用范围**
 
-ElementType | 描述
---------- | -------------  | ------------- 
+ElementType | 描述 |
+--------- | -------------  | 
 CONSTRUCTOR | 描述构造器
 FIELD | 用于描述域
 LOCAL_VARIABLE| 描述局部变量
