@@ -2,7 +2,7 @@
 
 ### 初识
 
-Python是一个跨平台，他可以运行在window,Mac和各种Linux/Unix系统上，在Window上写Python程序，放在Linux也是能够运行的。
+Python是一个跨平台，可以运行在window,Mac和各种Linux/Unix系统上，在Window上写Python程序，放在Linux也是能够运行的。
 
 ####  first Step
 
@@ -17,6 +17,6 @@ Python是一个跨平台，他可以运行在window,Mac和各种Linux/Unix系统
    
     hello,Micheal
 
-    ```
+ ```
  
 
