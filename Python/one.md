@@ -7,10 +7,11 @@ Python是一个跨平台，可以运行在window,Mac和各种Linux/Unix系统上
 ####  first Step
 
 1. 在终端输出 hello,World
-2. 利用subLime.text创建一个Python文件，并在终端输出
-3. 输出：The quick brown fox jumps over the lazy dog.
-4. 输出 100 + 200 = 300
-5. 效果: 
+2.
+3. 利用subLime.text创建一个Python文件，并在终端输出
+4. 输出：The quick brown fox jumps over the lazy dog.
+5. 输出 100 + 200 = 300
+6. 效果: 
  
   ```text
     please enter your name:Micheal 
